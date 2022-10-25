@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @happycherry7
-- 👀 I’m interested in art and music
-- 🌱 I’m currently learning Javascript and Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in gaming (Minecraft and Roblox)
+- 🌱 I’m currently learning Javascript and Python (Two programming laungages)
 - 📫 How to reach me cdi2012@outlook.com
 
 <!---
